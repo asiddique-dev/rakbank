@@ -1,0 +1,5 @@
+{
+    "lowRiskMinScore": 15,
+    "mediumRiskMinScore": 10,
+    "highRiskMinScore": 0
+}
